@@ -1,1 +1,1 @@
-Root README for alu-zero_day
+This is the root README for the repository
